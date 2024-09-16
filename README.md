@@ -10,7 +10,7 @@ Three Demand Side Management Strategies have been investigated:
 - Strategy 3: Equal Distribution
 
 Building upon the EV Charging Model, this work supposes artifical limits are placed on the grid (local substation); 8000kW, 10,000kW, and 12000kW. The three strategies have been modelled to curb EV power demand below these thresholds to understand the implications of each method. The algorithm responsible for this process can be seen below:
-![image](https://github.com/user-attachments/assets/885c8ec7-5684-4694-877e-14e073049125)
 
+![image](https://github.com/user-attachments/assets/885c8ec7-5684-4694-877e-14e073049125)
 
 This work and the corresponding publication formed part of my wider PhD, full details of which can be found here: https://etheses.whiterose.ac.uk/34839/
